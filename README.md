@@ -46,4 +46,5 @@ Depois, abra no navegador o endereço mostrado no terminal (geralmente `http://l
 
 ## Screenshot
 
-_Adicione aqui uma captura de tela do projeto em funcionamento._
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6ca27ccf-4f96-4790-95a6-0445c48afc70" />
+
